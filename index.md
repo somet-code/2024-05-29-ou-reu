@@ -314,7 +314,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use the following collaborative documents for chatting, taking notes, and sharing URLs and bits of code: <a href="https://pad.carpentries.org/2024-05-29-ou-swc">Day 1 etherpad</a>, <a href="https://pad.carpentries.org/2024-05-30-ou-swc">Day 2 etherpad</a>, <a href="https://pad.carpentries.org/2024-05-31-ou-swc">Day 3 etherpad</a>, and <a href="https://pad.carpentries.org/2024-06-17-ou-swc">Day 4 etherpad</a>.
 </p>
 <hr/>
 {% endif %}
