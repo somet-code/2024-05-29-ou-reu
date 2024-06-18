@@ -314,7 +314,13 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use the following collaborative documents for chatting, taking notes, and sharing URLs and bits of code: <a href="https://pad.carpentries.org/2024-05-29-ou-swc">Day 1 etherpad</a>, <a href="https://pad.carpentries.org/2024-05-30-ou-swc">Day 2 etherpad</a>, <a href="https://pad.carpentries.org/2024-05-31-ou-swc">Day 3 etherpad</a>, and <a href="https://pad.carpentries.org/2024-06-17-ou-swc">Day 4 etherpad</a>.
+We will use the following collaborative documents for chatting, taking notes, and sharing URLs and bits of code:
+  <ul>
+    <li><a href="https://pad.carpentries.org/2024-05-29-ou-swc">Day 1 etherpad</a></li>
+    <li><a href="https://pad.carpentries.org/2024-05-30-ou-swc">Day 2 etherpad</a></li>
+    <li><a href="https://pad.carpentries.org/2024-05-31-ou-swc">Day 3 etherpad</a></li>
+    <li><a href="https://pad.carpentries.org/2024-06-17-ou-swc">Day 4 etherpad</a></li>
+  </ul>
 </p>
 <hr/>
 {% endif %}
@@ -426,7 +432,7 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
-{% comment %}
+{% endcomment %}
 
 {% comment %}
 For online workshops, the section below provides:
