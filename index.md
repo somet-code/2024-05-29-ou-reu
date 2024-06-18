@@ -407,6 +407,7 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
+{% comment %}
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
@@ -425,6 +426,7 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+{% comment %}
 
 {% comment %}
 For online workshops, the section below provides:
